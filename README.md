@@ -68,5 +68,3 @@ After successful face authentication, the unified GUI combining the Face Entry S
 - The system uses facial recognition to identify users in real-time.
 
 ---
-
-Developed by Apoorv Mishra
